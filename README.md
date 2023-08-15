@@ -3,8 +3,8 @@ this project build in order to help  vanilla js game devs remember and make it e
 so fill free to add stuff if you don't see it here 
 # What we have
 ## Collision detection
-1-Between two rectangles
-2-Between a line and a rectangle
-3--Between Two lines
+1-Between two rectangles <br />
+2-Between a line and a rectangle <br />
+3--Between Two lines <br />
 4-
 5-
